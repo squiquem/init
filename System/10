@@ -1,0 +1,2 @@
+#execute in root mode
+fdisk -l

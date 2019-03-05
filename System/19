@@ -1,0 +1,2 @@
+#execute in root mode
+iptables -P INPUT DROP

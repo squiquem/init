@@ -1,0 +1,2 @@
+ifconfig en0 ;
+ifconfig | grep "inet " | grep -v 127.0.0.1 | expand | awk '{print $2}'

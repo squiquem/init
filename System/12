@@ -1,0 +1,2 @@
+#execute in root mode
+du -hd 1 /var ;

@@ -1,0 +1,2 @@
+#execute in root mode
+tail -f /var/log/syslog &

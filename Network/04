@@ -1,0 +1,2 @@
+netstat -nr ;
+netstat -nr | grep 'default' | awk '{print $2; exit}'
